@@ -1,4 +1,4 @@
-# Document-Vector datasets
+# Document-Vector Datasets
 
 These datasets are in the ASCII .dv file format used by https://github.com/examachine/parallpairs and other 
 information-retrieval tools of Gok Us Sibernetik Ar&Ge Ltd.
